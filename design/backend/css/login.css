@@ -1,0 +1,14 @@
+.logincard  {
+    margin-top: 10%;
+    padding: 5%;
+    border-radius: 7px;
+    background-color: rgba(0,0,0, 0.6);
+
+}
+.loginbutton    {
+    width: 100%;
+}
+/*
+.loginnp    {
+    width: 100%;
+}*/
